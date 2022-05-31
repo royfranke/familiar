@@ -10,6 +10,6 @@
 - Change print settings for new card layouts
 
 ## Why a Familiar Food Finder?
-My partner and I fostered a six year old whose favorite food is broccoli— except we couldn't figure out how they wanted their brocolli prepared. Familiar foods are grounding, but kids often don’t have the words to communicate their preferences— they want “regular” food.
+My partner and I fostered a six year old whose favorite food is broccoli— except we couldn't figure out how they wanted their brocolli prepared. Familiar foods are grounding, but kids often don’t have the words to communicate their preferences— they want “regular” food. With [Familiar Food Finder](http://familiar.royfranke.com/), kids can look through available food options and find something familiar.
 
 [Familiar Food Finder](http://familiar.royfranke.com/) is also intended to reduce food waste by giving kids a clear choice before food is plated.
